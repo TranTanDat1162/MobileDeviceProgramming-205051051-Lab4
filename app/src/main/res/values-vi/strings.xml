@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bản đồ thành phố HCM</string>
+    <string name="welcome">Chào mừng bạn đến với thành phố HCM</string>
+    <string name="here">Bạn đang ở quận 1</string>
+    <string name="locate">Định vị</string>
+</resources>
